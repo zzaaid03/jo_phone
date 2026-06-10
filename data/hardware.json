@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "brand": "Apple",
+    "category": "Smartphone",
+    "price": 899.0,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Galaxy S24",
+    "brand": "Samsung",
+    "category": "Smartphone",
+    "price": 799.0,
+    "stock": 11
+  },
+  {
+    "id": 3,
+    "name": "Redmi Note 13",
+    "brand": "Xiaomi",
+    "category": "Smartphone",
+    "price": 229.0,
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "name": "Pixel 8",
+    "brand": "Google",
+    "category": "Smartphone",
+    "price": 649.0,
+    "stock": 7
+  },
+  {
+    "id": 5,
+    "name": "Galaxy A55",
+    "brand": "Samsung",
+    "category": "Smartphone",
+    "price": 329.0,
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "name": "AirPods Pro 2",
+    "brand": "Apple",
+    "category": "Accessory",
+    "price": 189.0,
+    "stock": 25
+  },
+  {
+    "id": 7,
+    "name": "Galaxy Buds 2",
+    "brand": "Samsung",
+    "category": "Accessory",
+    "price": 99.0,
+    "stock": 30
+  },
+  {
+    "id": 8,
+    "name": "PowerCore 20K",
+    "brand": "Anker",
+    "category": "Accessory",
+    "price": 39.0,
+    "stock": 39
+  },
+  {
+    "id": 9,
+    "name": "USB-C Cable 1m",
+    "brand": "Anker",
+    "category": "Accessory",
+    "price": 9.5,
+    "stock": 58
+  },
+  {
+    "id": 10,
+    "name": "Rugged Case iPhone 15",
+    "brand": "Spigen",
+    "category": "Accessory",
+    "price": 19.0,
+    "stock": 37
+  }
+]

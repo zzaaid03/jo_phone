@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "customer_id": 1,
+    "tariff_id": 2,
+    "hardware_id": 1,
+    "start_date": "2026-01-15",
+    "duration_months": 24,
+    "monthly_fee": 14.99,
+    "hardware_price": 899.0,
+    "status": "ACTIVE"
+  },
+  {
+    "id": 2,
+    "customer_id": 2,
+    "tariff_id": 4,
+    "hardware_id": 2,
+    "start_date": "2026-02-01",
+    "duration_months": 24,
+    "monthly_fee": 27.99,
+    "hardware_price": 799.0,
+    "status": "ACTIVE"
+  },
+  {
+    "id": 3,
+    "customer_id": 3,
+    "tariff_id": 1,
+    "hardware_id": null,
+    "start_date": "2026-02-20",
+    "duration_months": 12,
+    "monthly_fee": 9.99,
+    "hardware_price": 0.0,
+    "status": "TERMINATED"
+  },
+  {
+    "id": 4,
+    "customer_id": 4,
+    "tariff_id": 3,
+    "hardware_id": 4,
+    "start_date": "2026-03-05",
+    "duration_months": 18,
+    "monthly_fee": 19.99,
+    "hardware_price": 649.0,
+    "status": "ACTIVE"
+  },
+  {
+    "id": 5,
+    "customer_id": 5,
+    "tariff_id": 5,
+    "hardware_id": null,
+    "start_date": "2026-03-18",
+    "duration_months": 6,
+    "monthly_fee": 7.49,
+    "hardware_price": 0.0,
+    "status": "ACTIVE"
+  },
+  {
+    "id": 6,
+    "customer_id": 6,
+    "tariff_id": 2,
+    "hardware_id": 5,
+    "start_date": "2026-04-02",
+    "duration_months": 12,
+    "monthly_fee": 14.99,
+    "hardware_price": 329.0,
+    "status": "ACTIVE"
+  },
+  {
+    "id": 7,
+    "customer_id": 7,
+    "tariff_id": 1,
+    "hardware_id": null,
+    "start_date": "2026-04-25",
+    "duration_months": 12,
+    "monthly_fee": 9.99,
+    "hardware_price": 0.0,
+    "status": "ACTIVE"
+  },
+  {
+    "id": 8,
+    "customer_id": 8,
+    "tariff_id": 3,
+    "hardware_id": 3,
+    "start_date": "2026-05-10",
+    "duration_months": 18,
+    "monthly_fee": 19.99,
+    "hardware_price": 229.0,
+    "status": "ACTIVE"
+  }
+]

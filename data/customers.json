@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "first_name": "Ahmad",
+    "last_name": "Khalil",
+    "email": "ahmad.khalil@example.jo",
+    "phone": "0791234561",
+    "city": "Amman"
+  },
+  {
+    "id": 2,
+    "first_name": "Layla",
+    "last_name": "Haddad",
+    "email": "layla.haddad@example.jo",
+    "phone": "0781234562",
+    "city": "Irbid"
+  },
+  {
+    "id": 3,
+    "first_name": "Omar",
+    "last_name": "Nassar",
+    "email": "omar.nassar@example.jo",
+    "phone": "0771234563",
+    "city": "Zarqa"
+  },
+  {
+    "id": 4,
+    "first_name": "Rana",
+    "last_name": "Qasem",
+    "email": "rana.qasem@example.jo",
+    "phone": "0791234564",
+    "city": "Amman"
+  },
+  {
+    "id": 5,
+    "first_name": "Yousef",
+    "last_name": "Tahat",
+    "email": "yousef.tahat@example.jo",
+    "phone": "0781234565",
+    "city": "Aqaba"
+  },
+  {
+    "id": 6,
+    "first_name": "Dana",
+    "last_name": "Shami",
+    "email": "dana.shami@example.jo",
+    "phone": "0771234566",
+    "city": "Salt"
+  },
+  {
+    "id": 7,
+    "first_name": "Hassan",
+    "last_name": "Odeh",
+    "email": "hassan.odeh@example.jo",
+    "phone": "0791234567",
+    "city": "Madaba"
+  },
+  {
+    "id": 8,
+    "first_name": "Noor",
+    "last_name": "Zoubi",
+    "email": "noor.zoubi@example.jo",
+    "phone": "0781234568",
+    "city": "Irbid"
+  }
+]

@@ -1,0 +1,7 @@
+# JO_PHONE - Mobile Shop Management System
+#
+# This project intentionally uses ONLY the Python standard library
+# (json, dataclasses, datetime, argparse, unittest, ...).
+# No third-party packages are required.
+#
+# Python >= 3.10 is required.

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "JO Basic",
+    "monthly_fee": 9.99,
+    "data_gb": 5,
+    "minutes": 200,
+    "min_duration_months": 12
+  },
+  {
+    "id": 2,
+    "name": "JO Smart",
+    "monthly_fee": 14.99,
+    "data_gb": 15,
+    "minutes": 500,
+    "min_duration_months": 12
+  },
+  {
+    "id": 3,
+    "name": "JO Plus",
+    "monthly_fee": 19.99,
+    "data_gb": 30,
+    "minutes": -1,
+    "min_duration_months": 18
+  },
+  {
+    "id": 4,
+    "name": "JO Max",
+    "monthly_fee": 27.99,
+    "data_gb": -1,
+    "minutes": -1,
+    "min_duration_months": 24
+  },
+  {
+    "id": 5,
+    "name": "JO Youth",
+    "monthly_fee": 7.49,
+    "data_gb": 10,
+    "minutes": 100,
+    "min_duration_months": 6
+  }
+]
